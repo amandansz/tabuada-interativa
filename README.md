@@ -51,7 +51,6 @@ O propósito deste trabalho é aplicar conceitos básicos de programação web, 
 └─ script.js
 ```
 
-Projeto desenvolvido com  🩷
+Projeto desenvolvido por Amanda Souza  🩷
 
-<br> <p align="left"> <a href="https://github.com/amandansz" target="_blank"> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/> </a> &nbsp; <a href="https://www.linkedin.com/in/amandansz" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
 
