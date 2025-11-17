@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="style.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+    <title>Gerador de Tabuada Interativa</title>
+</head>
+
+<body>
+
+    <div class="container">
+
+        <h1>Gerador de Tabuada Interativo</h1>
+
+        <div class="input-area">
+            <input 
+                type="number" 
+                id="numero" 
+                placeholder="Digite um número de 1 a 10" 
+                min="1" 
+                max="10"
+            >
+            <button id="gerar">Gerar tabuada</button>
+        </div>
+
+        <p id="mensagem" class="mensagem"></p>
+
+          
+        <div id="resultado"></div>
+
+    </div>
+
+    <footer class="rodape">
+        <a href="https://github.com/amandansz" target="_blank" class="icon">
+            <i class="fa-brands fa-github"></i>
+        </a>
+
+        <a href="https://www.linkedin.com/in/amandansz" target="_blank" class="icon">
+            <i class="fa-brands fa-linkedin"></i>
+        </a>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
