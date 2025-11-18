@@ -94,3 +94,23 @@ button:hover {
     display: inline-block;
 }
 
+/* Classe específica para mobile */
+.mobile-adjust {
+    width: 90% !important;   
+    padding: 20px !important; 
+    box-sizing: border-box;
+}
+
+.mobile-adjust .input-area {
+    flex-direction: column; 
+    gap: 10px;
+}
+
+.mobile-adjust input,
+.mobile-adjust button {
+    width: 100% !important; 
+}
+
+.mobile-adjust #resultado {
+    width: 100% !important; 
+}

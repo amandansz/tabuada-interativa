@@ -20,6 +20,13 @@ btnGerar.addEventListener("click", function () {
         resultadoDiv.innerHTML += `${number} x ${i} = ${resultado} <br>`;
     }
 
+    const container = document.querySelector(".container");
+
+    if (window.innerWidth <= 400) {
+    container.classList.add("mobile-adjust");
+}
+
+
     inputNumero.value = ""; 
 });
 
