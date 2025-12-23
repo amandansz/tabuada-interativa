@@ -1,11 +1,11 @@
-# 📘 Gerador de Tabuada Interativa
+#  Gerador de Tabuada Interativa
 
 Este projeto foi desenvolvido como parte da disciplina "Desenvolvimento em JavaScript", com o objetivo de praticar e demonstrar conhecimentos fundamentais na linguagem. A aplicação permite ao usuário gerar a tabuada de um número entre 1 e 10, apresentando uma interface simples, organizada e funcional.
 
 ---
 
 
-## 🎯 Objetivo do Projeto
+##  Objetivo do Projeto
 
 O propósito deste trabalho é aplicar conceitos básicos de programação web, incluindo:
 
@@ -17,14 +17,14 @@ O propósito deste trabalho é aplicar conceitos básicos de programação web, 
 
 ---
 
-## 🚀 Deploy
+##  Deploy
 
 🔗 **GitHub Pages:**  
 ➡️ https://amandansz.github.io/tabuada-interativa/
 
 ---
 
-## 📌 Funcionalidades
+##  Funcionalidades
 
 - Geração automática da tabuada de 1 a 10  
 - Validação de entrada para evitar números fora do intervalo permitido  
@@ -34,7 +34,7 @@ O propósito deste trabalho é aplicar conceitos básicos de programação web, 
 
 ---
 
-## 🛠 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - **HTML5** — Estrutura do conteúdo  
 - **CSS3** — Estilização e responsividade  
